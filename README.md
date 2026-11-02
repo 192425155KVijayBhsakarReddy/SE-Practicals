@@ -1,8 +1,6 @@
 # SE-Practicals
 
-## Q22 - Commit and Push Experiment
+## Q23 - Collaborator Changes
 
-This section demonstrates staging, committing,
-and pushing changes using Git and GitHub.
-
-Status: Completed
+This section represents changes made by a
+collaborator and retrieved using Git Pull.
